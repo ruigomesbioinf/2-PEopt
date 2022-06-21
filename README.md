@@ -4,7 +4,7 @@
 GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli"
 
 ### Introduction
-<div style="text-align: right;">
+<p style="text-align: right;">
   The increasing search for sustainable methods and processes that optimize
   the production of some so-called biological targets created a demand in the sci-
   entific community to gather and develop different tools. These tools excel at
@@ -16,7 +16,7 @@ GitHub repository to support the development of the project "Optimisation of phe
   that will translate itself into an optimal strain with the desired phenotype. Most
   of the time, this means we are searching for the set of modifications that will
   make the organism have a high yield/production of some target metabolite.
- </div>
+ </p>
 
 <figure>
   <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/DETAILED_PATHWAY.png alt="drawing" width="900"/>
