@@ -17,7 +17,7 @@ of the time, this means we are searching for the set of modifications that will
 make the organism have a high yield/production of some target metabolite.
 
 <figure>
-  <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/DETAILED_PATHWAY.png alt="drawing" width="1000"/>
+  <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/DETAILED_PATHWAY.png alt="drawing" width="900"/>
   <figcaption>A) Metabolic pathways for 2-PE production in Yeasts. Ehrlich pathway (blue),
   Shikimate pathway (yellow), Glycolysis (red).; B) Detailed Ehrlich
   pathway for 2-PE synthesis.</figcaption>
