@@ -4,7 +4,7 @@
 GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli"
 
 ### Introduction
-<div style="text-align: right">
+<div style="text-align: right;">
   The increasing search for sustainable methods and processes that optimize
   the production of some so-called biological targets created a demand in the sci-
   entific community to gather and develop different tools. These tools excel at
