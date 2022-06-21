@@ -16,4 +16,4 @@ that will translate itself into an optimal strain with the desired phenotype. Mo
 of the time, this means we are searching for the set of modifications that will
 make the organism have a high yield/production of some target metabolite.
 
-![Detailed pathways for the production of 2-Phenylethanol in *Saccharomyces cerevisiae*](https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/DETAILED_PATHWAY.png)
+<img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/DETAILED_PATHWAY.png alt="drawing" width="400"/>
