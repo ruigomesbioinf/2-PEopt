@@ -1,5 +1,4 @@
-![](https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/EEUMLOGO.png)
-<img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/EEUMLOGO.png alt="drawing" width="200"/>
+<img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/EEUMLOGO.png alt="drawing" width="100"/>
 
 # Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli
 GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli"
