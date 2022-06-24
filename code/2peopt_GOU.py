@@ -55,5 +55,5 @@ if __name__ == "__main__":
     from mewpy.util.constants import EAConstants
     EAConstants.NUM_CPUS = CPUS
     for i in range(1, 11):
-        filename = f"output_RKOProblem{i}.csv"
+        filename = f"output_GOUProblem{i}.csv"
         GOU_problem(filename)
