@@ -92,3 +92,8 @@ print(20*"-")
 
 # SAVE EDITED MODEL
 write_sbml_model(model, "edited_ECOLI.xml")
+
+# CHECK IF IT'S A VALIDE SBML FORMAT MODEL
+from cobra.io import validate_sbml_model
+
+validate_sbml_model("models/edited_ECOLI.xml")
