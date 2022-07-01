@@ -2,8 +2,8 @@
 
 # Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli
 GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli"
+Overleaf LaTeX file with main article for this project: https://www.overleaf.com/read/fffxhfdpckqw
 
-### Introduction
 <p align = "justify">
 
   **Abstract.** The increasing world demand of resources creates a urge in the scientific community to develop and gather better and more suitable tools to fill this gap. As far as biology and computer science are concerned in silico approaches can have a great impact in this matter acting like a shortcut to many other unsustainable and non-efficient approaches. Computational strain optimizations together with genome-scale metabolic models open wide doors in this context. In this project strain optimizations using MEWpy were made for trying to increase 2-phenylethanol production in Saccharomyces cerevisiae with great success improving this production in almost 4 times the wild-type production.
@@ -19,7 +19,7 @@ GitHub repository to support the development of the project "Optimisation of phe
  </figure>
 
 <figure>
-  <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/table_solutions.png>
+  <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/table_solutions.jpeg>
   <figcaption> Table of possible solutions, retrieved by MEWpy, after the preprocessing
 stage. ↑ upregulation, ↓ downregulation, ⊗deletion </figcaption>
 </figure>
