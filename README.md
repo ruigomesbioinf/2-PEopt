@@ -5,7 +5,10 @@ GitHub repository to support the development of the project "Optimisation of phe
 
 ### Introduction
 <p align = "justify">
-  The increasing search for sustainable methods and processes that optimize the production of some so-called biological targets created a demand in the scientific community to gather and develop different tools. These tools excel at being sustainable and economical efficient, leaving behind the traditional methods of chemical synthesis and replacing them with biotechnological approaches. Therefore, in silico optimization tools have been developed all around the world to provide answers to one of the major challenges of Metabolic Engineering, develop models and algorithms to identify an ensemble of genetic modifications that will translate itself into an optimal strain with the desired phenotype. Most of the time, this means we are searching for the set of modifications that will make the organism have a high yield/production of some target metabolite.
+
+  **Abstract.** The increasing world demand of resources creates a urge in the scientific community to develop and gather better and more suitable tools to fill this gap. As far as biology and computer science are concerned in silico approaches can have a great impact in this matter acting like a shortcut to many other unsustainable and non-efficient approaches. Computational strain optimizations together with genome-scale metabolic models open wide doors in this context. In this project strain optimizations using MEWpy were made for trying to increase 2-phenylethanol production in Saccharomyces cerevisiae with great success improving this production in almost 4 times the wild-type production.
+
+  **Keywords:** MEWpy · phenylethanol · Saccharomyces cerevisiae · Escherichia coli · Genome-scale metabolic model · Constraints-based models · gene over/under-expression · computational strain optimization
 </p>
 
 <figure>
@@ -14,3 +17,9 @@ GitHub repository to support the development of the project "Optimisation of phe
   Shikimate pathway (yellow), Glycolysis (red).; B) Detailed Ehrlich
   pathway for 2-PE synthesis.</figcaption>
  </figure>
+
+<figure>
+  <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/table_solutions.png>
+  <figcaption> Table of possible solutions, retrieved by MEWpy, after the preprocessing
+stage. ↑ upregulation, ↓ downregulation, ⊗deletion </figcaption>
+</figure>
