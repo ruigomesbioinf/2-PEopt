@@ -1,7 +1,7 @@
 <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/EEUMLOGO.png alt="drawing" width="100"/>
 
 # Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli
-GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli"
+GitHub repository to support the development of the project "Optimisation of phenylethanol production in Saccharomyces cerevisiae and Escherichia coli" <br>
 Overleaf LaTeX file with main article for this project: https://www.overleaf.com/read/fffxhfdpckqw
 
 <p align = "justify">
@@ -20,6 +20,5 @@ Overleaf LaTeX file with main article for this project: https://www.overleaf.com
 
 <figure>
   <img src=https://github.com/ruigomesbioinf/2-PEopt/blob/main/assets/table_solutions.jpeg>
-  <figcaption> Table of possible solutions, retrieved by MEWpy, after the preprocessing
-stage. ↑ upregulation, ↓ downregulation, ⊗deletion </figcaption>
+  <figcaption> Table of possible solutions, retrieved by MEWpy, after the preprocessing stage. ↑ upregulation, ↓ downregulation, ⊗deletion </figcaption>
 </figure>
